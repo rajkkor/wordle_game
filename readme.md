@@ -8,6 +8,7 @@ ref word list: https://raw.githubusercontent.com/tabatkins/wordle-list/main/word
 # install
 Run the index.html file.
 to make a change to the script.jsx file.
-´´´
-npm run build
-´´´
+
+```
+    npm run build
+```
